@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EcoSense ver="1.0">
+    <package>
+        <filepath>https://raw.githubusercontent.com/seanysense/EcoSenseFW/master/packageFolder/RadonEyeProFirmware.bin</filepath>
+        <name>RadonEyeProFirmware</name>
+        <version>1001</version>
+        <size>1530430</size>
+        <md5>2d34605d8b4580da6a7bfb106feeb987</md5>
+    </package>
+</EcoSense>
